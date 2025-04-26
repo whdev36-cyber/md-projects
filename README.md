@@ -7,6 +7,7 @@
 - [Learning pyTelegramBotAPI with One Project](projects/project03.md)
 - [Learning Flask by Building a Twitter Clone](projects/project04.md)
 - [Building a CRUD Application with Django](projects/project05.md)
+- [Learning Bootstrap by Building a Twitter Clone](projects/project06.md)
 
 ## Tutorials
 - [Taking a Screenshot in Python (Windows)](tutorials/tut00.md)
