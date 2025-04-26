@@ -6,6 +6,7 @@
 - [Learning SQLite3 in Python with a CRUD and JOIN Project](projects/project02.md)
 - [Learning pyTelegramBotAPI with One Project](projects/project03.md)
 - [Learning Flask by Building a Twitter Clone](projects/project04.md)
+- [Building a CRUD Application with Django](projects/project05.md)
 
 ## Tutorials
 - [Taking a Screenshot in Python (Windows)](tutorials/tut00.md)
