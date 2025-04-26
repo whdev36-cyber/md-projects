@@ -8,6 +8,7 @@
 
 ## Tutorials
 - [Taking a Screenshot in Python (Windows)](tutorials/tut00.md)
+- [Working with GPS in Python](tutorials/tut01.md)
 
 ## Languages
 - [Python - LearnXInYMinutes](lang/python.md)
