@@ -1,3 +1,5 @@
-MD Projects
+# MD Projects
 
-- [Cleaning Up Junk Files on C: Drive Using Python](project00.md)
+## Projects
+- [Cleaning Up Junk Files on C: Drive Using Python](projects/project00.md)
+- [Creating a Flexible GUI with Kivy (Screen Manager)](projects/project01.md)
