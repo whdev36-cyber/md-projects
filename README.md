@@ -5,7 +5,7 @@
 - [Creating a Flexible GUI with Kivy (Screen Manager)](projects/project01.md)
 - [Learning SQLite3 in Python with a CRUD and JOIN Project](projects/project02.md)
 - [Learning pyTelegramBotAPI with One Project](projects/project03.md)
-- [Learning Flask by Building a Twitter Clone](projects.project04.md)
+- [Learning Flask by Building a Twitter Clone](projects/project04.md)
 
 ## Tutorials
 - [Taking a Screenshot in Python (Windows)](tutorials/tut00.md)
