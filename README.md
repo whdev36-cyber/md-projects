@@ -6,3 +6,6 @@
 
 ## Tutorials
 - [Taking a Screenshot in Python (Windows)](tutorials/tut00.md)
+
+## Languages
+- [Python - LearnXInYMinutes](lang/python.md)
