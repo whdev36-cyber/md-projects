@@ -19,6 +19,7 @@
 - [Django Authentication: A Comprehensive Guide](tutorials/tut02.md)
 - [Python String Manipulation Methods with Exercises](tutorials/tut03.md)
 - [Python List Manipulation Methods with Exercises](tutorials/tut04.md)
+- [Python Dictionary Manipulation Methods with Exercises](tutorials/tut05.md)
 
 ## Languages
 - [Python - LearnXInYMinutes](lang/python.md)
