@@ -10,6 +10,7 @@
 - [Learning Bootstrap by Building a Twitter Clone](projects/project06.md)
 - [Learning Telethon by Building a BIG Userbot](projects/project07.md)
 - [Learning Python Pyramid by Building an Anime Website](projects/project08.md)
+- [Learning Bottle by Building a Mini Blog](projects/project09.md)
 
 ## Tutorials
 - [Taking a Screenshot in Python (Windows)](tutorials/tut00.md)
