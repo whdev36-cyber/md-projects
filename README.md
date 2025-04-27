@@ -12,12 +12,12 @@
 - [Learning Python Pyramid by Building an Anime Website](projects/project08.md)
 - [Learning Bottle by Building a Mini Blog](projects/project09.md)
 - [Learning Tkinter by Building a Notepad Application](projects/project10.md)
-- [Python String Manipulation Methods with Exercises](projects/project11.md)
 
 ## Tutorials
 - [Taking a Screenshot in Python (Windows)](tutorials/tut00.md)
 - [Working with GPS in Python](tutorials/tut01.md)
 - [Django Authentication: A Comprehensive Guide](tutorials/tut02.md)
+- [Python String Manipulation Methods with Exercises](projects/tut03.md)
 
 ## Languages
 - [Python - LearnXInYMinutes](lang/python.md)
