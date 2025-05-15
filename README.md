@@ -15,6 +15,7 @@
 - [Learning React JS Through a Project](projects/project11.md)
 - [HTML Comprehensive Project: Personal Portfolio Website](projects/project12.md)
 - [Scikit-Learn in One Project: Comprehensive Machine Learning Example](projects/project13.md)
+- [Learn FastAPI with One Project: Build a Todo API](projects/project14.md)
 
 ## Tutorials
 - [Taking a Screenshot in Python (Windows)](tutorials/tut00.md)
