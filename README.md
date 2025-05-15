@@ -17,6 +17,7 @@
 - [Scikit-Learn in One Project: Comprehensive Machine Learning Example](projects/project13.md)
 - [Learn FastAPI with One Project: Build a Todo API](projects/project14.md)
 - [Telegram Voting Bot with pyTelegramBotAPI](projects/project15.md)
+- [Telegram Web App Bot with User Registration](projects/project16.md)
 
 ## Tutorials
 - [Taking a Screenshot in Python (Windows)](tutorials/tut00.md)
